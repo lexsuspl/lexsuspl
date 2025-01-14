@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Filip!  
 
-<!--
-**lexsuspl/lexsuspl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Web Developer and GameDev enthusiast with 4+ years of programming experience. I love creating interactive experiences and diving into new technologies.  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+- **Languages:** JavaScript, Python, C#  
+- **Game Engines:** Unity (main), Unreal Engine (familiar)  
+- **Databases:** MSSQL, MySQL, JSON  
+- **Design & Tools:**  
+  - UX/UI prototyping  
+  - Version control with Git/GitHub  
+  - Basic 3D asset creation in Blender  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 About Me  
+I’m passionate about game development and always eager to grow my skills. Whether it’s building immersive games, crafting intuitive interfaces, or collaborating on creative projects, I’m all in!  
+
+## 📫 Get in Touch  
+- **Location:** Poland (GMT+1)  
+- **Availability:** Evenings 18:00–00:00 (except Saturdays)  
+- **Let’s Connect:** [Your LinkedIn or Email if you'd like to share]  
+
+Let’s create something amazing together! 🚀  
