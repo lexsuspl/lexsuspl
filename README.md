@@ -17,6 +17,6 @@ I’m passionate about game development and always eager to grow my skills. Whet
 ## 📫 Get in Touch  
 - **Location:** Poland (GMT+1)  
 - **Availability:** Evenings 18:00–00:00 (except Saturdays)  
-- **Let’s Connect:** [Your LinkedIn or Email if you'd like to share]  
+ 
 
 Let’s create something amazing together! 🚀  
